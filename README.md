@@ -2,6 +2,7 @@
 
 <div>
 **Loss: 0.0018192840507254004 ||  Accuracy: 61.2565445026178%**
+  
 </div>
 <div>
   <p>Dataset:[https://www.kaggle.com/datasets/mansibmursalin/chest-xrays]</p>
